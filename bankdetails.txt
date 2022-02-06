@@ -1,0 +1,27 @@
+Account No. : 0844922997009
+Account Holder's Name : Aryaman
+Bank Balance : 500.0.
+
+Account No. : 5977058424793
+Account Holder's Name : Goldi
+Bank Balance : 901.0.
+
+Account No. : 7654650222384
+Account Holder's Name : Manas
+Bank Balance : 10000.0.
+
+Account No. : 1207239140270
+Account Holder's Name : Guru Pal
+Bank Balance : 3451.0.
+
+Account No. : 4190624479457
+Account Holder's Name : Shivanshu
+Bank Balance : 4500.0.
+
+Account No. : 6177685537280
+Account Holder's Name : Aditya Jain
+Bank Balance : 8000.0.
+
+Account No. : 1716286280713
+Account Holder's Name : Anukriti Pandey
+Bank Balance : 8880.0.
